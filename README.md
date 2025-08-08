@@ -80,9 +80,6 @@ async def create_item(item: Item):
     return {"message": "Item created successfully", "item": item}
 ```
 
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
